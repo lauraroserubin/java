@@ -19,7 +19,7 @@ class Student {
     }
 }
 
-public class Basics14 {
+public class Basics13 {
     public static void main(String[] args) {
         Student student1 = new Student("Alice");
         Student student2 = new Student("Bob");
